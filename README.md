@@ -1,4 +1,4 @@
-###**Mission to Mars**
+# **Mission to Mars**
 
 **Project Overview**
 
@@ -15,10 +15,14 @@ To achieve that the following libraries and tools were used:
 - **MongoDB** , NoSQL database, to store the gathered data.
 - **Flask to** render the data in a web application
 
-**Data Sources:**
+**Data Sources**
 
 - [https://redplanetscience.com/](https://redplanetscience.com/)
 - [https://spaceimages-mars.com/](https://spaceimages-mars.com/)
 - [https://galaxyfacts-mars.com/](https://galaxyfacts-mars.com/)
 - [https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&amp;k1=target&amp;v1=Mars](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&amp;k1=target&amp;v1=Mars)
 
+
+**Result**
+
+![](https://github.com/Bayan-daux/Mission_to_Mars/blob/main/templates/scrap_result03.PNG)
